@@ -7,7 +7,7 @@ Código reescrito para que tenha condição de vitória e game over, além de se
 
 </br>
 
-![Alt text](/img/forca.jpg?raw=true "Jogo da forca desenvolvido em Python")
+![Alt text](/hangmanGame/img/forca.jpg?raw=true "Jogo da forca desenvolvido em Python")
 </br>
 
 ## Contribuidores
