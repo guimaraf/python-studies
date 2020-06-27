@@ -2,7 +2,7 @@ from PIL import Image
 import os
 import sys
 
-equalSize = [420, 420]
+equalSize = [512, 512]
 dividerSize = 2
 directorys = ['tempImage', 'converted']
 
