@@ -6,7 +6,7 @@ Simple code for resize multiple images from a directory using Python
 pip install Pillow
 
 Official documentation
-https://pillow.readthedocs.io/en/5.3.x/installation.html
+https://pypi.org/project/Pillow/
 
 # Usage
 Create 2 directories, the first with the name <b>tempImage</b> the second directory with the name <b>converted</b>.<br><br>

@@ -26,3 +26,6 @@ for linha in linhas:
             print (subdominio, resultado)
     except:
         pass
+
+
+#python dnsbrute.py www.windowsclub.com.br/app/ introNames.txt > exitFile.txt

@@ -3,7 +3,7 @@ import os
 import sys
 
 equalSize = [512, 512]
-dividerSize = 2
+dividerSize = 1.2
 directorys = ['tempImage', 'converted']
 
 for file_name in os.listdir(directorys[0]):
